@@ -1,0 +1,16 @@
+.subnav {
+    list-style: none;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 600px;
+    background-color: #fbfbfd;
+  }
+
+  .subnav img {
+    width: 15px;
+   
+  }
+
+  .subnav div:nth-child(2) {
+    font-size: 15px;
+  }

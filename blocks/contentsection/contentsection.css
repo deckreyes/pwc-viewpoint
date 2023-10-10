@@ -1,0 +1,18 @@
+.contentsection {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 1000px;
+    border: 1px inset #ccc;
+    border-top-color: transparent;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;   
+    padding: 15px;
+  }
+
+
+.contentsection :first-child {
+    font-size: 20px;
+ }
+
