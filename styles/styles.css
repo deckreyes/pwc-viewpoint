@@ -268,3 +268,8 @@ main .newsroomsection-container {
   padding-top: 10px;
   background-color: #fbfbfd;
 }
+
+main .default-content-wrapper {
+  border: 1px inset red;
+  padding: 15px
+}
