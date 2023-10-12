@@ -1,14 +1,11 @@
 .subnav {
-    list-style: none;
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 600px;
     background-color: #fbfbfd;
+    width: 1200px;
   }
 
   .subnav img {
-    width: 15px;
-   
+    width: auto;
+    height: auto;
   }
 
   .subnav div:nth-child(2) {

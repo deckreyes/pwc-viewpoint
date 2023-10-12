@@ -230,7 +230,7 @@ main img {
 
 main .section {
   padding: 64px 16px;
-  background-color: rgb(245, 245, 247);
+  background-color: white;
 }
 
 @media (min-width: 600px) {
@@ -258,7 +258,7 @@ main .location-block-wrapper {
 
 main .subnav-container {
   height: 5px;
-  padding-top: 10px;
+  padding-top: 100px;
   background-color: #fbfbfd;
 
 }
