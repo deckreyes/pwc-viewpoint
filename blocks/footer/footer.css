@@ -1,6 +1,6 @@
 footer {
   padding: 2rem;
-  background-color: rgb(45, 45, 45);
+  background-color: var(--overlay-background-color);
   font-size: var(--body-font-size-s);
 }
 
@@ -11,38 +11,4 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
-}
-
-footer .footerone {
-  color: white;
-  font-size: 17px;
-
-  display: flex;
-  align-items: flex-start; 
-  flex-direction: row; 
-  flex-wrap: nowrap; 
-
-  height: 100%;
-  padding: 15px;
-  gap: 30px;
-
-  border: 1px inset #ccc;
-  border-top-color: transparent;
-  border-right-color: transparent;
-  border-left-color: transparent;
-}
-
-
-footer .footertwo {
-  color: white;
-  font-size: 11px;
-
-  display: flex;
-  align-items: flex-start; 
-  flex-direction: row; 
-  flex-wrap: nowrap; 
-
-  height: 100%;
-  padding: 15px;
-  gap: 30px;
 }
